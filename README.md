@@ -1,4 +1,4 @@
-# @madiro/esm-imaging-gate-app
+# @jnsereko/esm-imaging-gate-app
 
 Refuses imaging **results entry** until the order's payment is confirmed.
 UVL-EMR issue [#322](https://github.com/MadiroGlobalHealth/UVL-EMR/issues/322).

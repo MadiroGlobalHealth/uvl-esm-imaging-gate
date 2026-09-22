@@ -1,9 +1,9 @@
 {
-  "name": "@madiro/esm-imaging-gate-app",
+  "name": "@jnsereko/esm-imaging-gate-app",
   "version": "0.1.0",
   "license": "MPL-2.0",
   "description": "Refuses imaging results entry until the order's payment is confirmed (UVL-EMR #322)",
-  "browser": "dist/madiro-esm-imaging-gate-app.js",
+  "browser": "dist/jnsereko-esm-imaging-gate-app.js",
   "main": "src/index.ts",
   "source": true,
   "scripts": {
