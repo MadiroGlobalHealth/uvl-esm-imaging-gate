@@ -1,0 +1,7 @@
+{
+  "addResults": "Saisir les résultats",
+  "checkingPayment": "Vérification du paiement…",
+  "paymentNotConfirmed": "Paiement non confirmé",
+  "paymentNotConfirmedHelp": "Cet examen n'a pas encore été payé. Le patient doit régler à la Caisse avant la saisie des résultats.",
+  "paymentUnverifiable": "Le statut de paiement n'a pas pu être vérifié."
+}

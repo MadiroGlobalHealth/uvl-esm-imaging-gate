@@ -1,0 +1,7 @@
+{
+  "addResults": "Add results",
+  "checkingPayment": "Checking payment…",
+  "paymentNotConfirmed": "Payment not confirmed",
+  "paymentNotConfirmedHelp": "This exam has not been paid for. The patient must settle at the cashier before results can be entered.",
+  "paymentUnverifiable": "The payment status could not be verified."
+}
