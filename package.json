@@ -1,9 +1,9 @@
 {
-  "name": "@uvl/esm-imaging-gate-app",
+  "name": "@madiro/esm-imaging-gate-app",
   "version": "1.0.0",
   "license": "MPL-2.0",
   "description": "Refuses imaging results entry until the order's payment is confirmed (UVL-EMR #322)",
-  "browser": "dist/uvl-esm-imaging-gate-app.js",
+  "browser": "dist/madiro-esm-imaging-gate-app.js",
   "main": "src/index.ts",
   "source": true,
   "scripts": {
@@ -43,5 +43,18 @@
     "swr": "2.5.1",
     "typescript": "^5.0.0",
     "webpack": "^5.88.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MadiroGlobalHealth/uvl-esm-imaging-gate.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "dist",
+    "src",
+    "translations",
+    "README.md"
+  ]
 }
