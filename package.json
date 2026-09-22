@@ -12,7 +12,8 @@
     "analyze": "webpack --mode=production --env analyze=true",
     "lint": "eslint src --ext ts,tsx",
     "typescript": "tsc",
-    "test": "jest --config jest.config.js"
+    "test": "jest --config jest.config.js",
+    "prepare": "npm run build"
   },
   "browserslist": [
     "extends browserslist-config-openmrs"
